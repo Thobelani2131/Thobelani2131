@@ -43,10 +43,3 @@ Building modern, responsive, and scalable digital solutions by day, crafting cus
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thobelani2131&show_icons=true&theme=dark" alt="Muzi's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thobelani2131&layout=compact&theme=dark" alt="Top Languages" />
-</div>
