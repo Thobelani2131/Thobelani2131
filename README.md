@@ -4,7 +4,7 @@
 Building modern, responsive, and scalable digital solutions by day, crafting custom web apps and FinTech architectures by night.
 
 - 🌍 **Location:** Based in South Africa 🇿🇦
-- 🖥️ **Portfolio:** [Check out my portfolio]((https://muzicode-portfolio.onrender.com))
+- 🖥️ **Portfolio:** [Check out my portfolio](https://muzicode-portfolio.onrender.com)
 - 👥 **Looking to collaborate on:** Web & FinTech Development, Scalable APIs, UI/UX Systems, and Full-Stack Applications.
 - ⚡ **Fun Fact:** I leverage AI-assisted tools to optimize development workflows and increase shipping speed.
 
@@ -40,6 +40,3 @@ Building modern, responsive, and scalable digital solutions by day, crafting cus
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thobelani2131)
-
----
-
