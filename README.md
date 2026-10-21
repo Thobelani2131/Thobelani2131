@@ -4,7 +4,7 @@
 Building modern, responsive, and scalable digital solutions by day, crafting custom web apps and FinTech architectures by night.
 
 - 🌍 **Location:** Based in South Africa 🇿🇦
-- 🖥️ **Portfolio:** [Check out my portfolio]([http://127.0.0.1:5500/index.html](https://muzicode-portfolio.onrender.com))
+- 🖥️ **Portfolio:** [Check out my portfolio]((https://muzicode-portfolio.onrender.com))
 - 👥 **Looking to collaborate on:** Web & FinTech Development, Scalable APIs, UI/UX Systems, and Full-Stack Applications.
 - ⚡ **Fun Fact:** I leverage AI-assisted tools to optimize development workflows and increase shipping speed.
 
